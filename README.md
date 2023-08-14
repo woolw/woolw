@@ -1,5 +1,5 @@
 # woolw
-I've been programming since ~2016  
+I've been programming since ~2015  
 I am currently working as a C# Backend Dev also dabbling a bit in our frontend (React | TS) at work  
 </br>
   

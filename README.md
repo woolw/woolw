@@ -20,7 +20,7 @@ make it work first - performance can come later
   - htmx
   - godot
 
-- languages i've used before:
+- stuff i've used before:
   - C
   - C++
   - C#
@@ -29,3 +29,6 @@ make it work first - performance can come later
   - Python
   - Lua
   - Rust
+  - ASP.Net
+  - React
+  - ...

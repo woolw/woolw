@@ -13,23 +13,24 @@ make it work first - performance can come later
 
 ## Programming info
 - bucket list:
-  - Zig
   - Odin
-  - Go
   - Prolog
   - htmx
-  - godot
-
-- stuff i've used before:
-  - Assembly
-  - C
-  - C++
-  - C#
-  - Java
-  - JavaScript / TypeScript
-  - Python
-  - Lua
-  - Rust
-  - ASP.Net
-  - React
   - ...
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=zig,golang,godot," />
+  </a>
+</p>
+
+- stuff i've used before (at least 5 hours not counting learning):
+- assembly
+- sql
+- ...
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,arduino,azure,c,cs,cpp,html,css,dotnet,java,js,ts,python,lua,rust,react,linux,md" />
+  </a>
+</p>

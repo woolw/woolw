@@ -1,16 +1,25 @@
-### Hi there 👋
+# woolw
+I've been programming since ~2016  
+I am currently working as a C# Backend Dev also dabbling a bit in our frontend (React | TS) at work  
+</br>
+  
+- 🔭 I’m currently working on a small scaping project in rust
+- 🌱 I’m currently learning rust (ratatui, tokio,...)
 
-<!--
-**woolw/woolw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming info
+- languages / technologies on my bucket list:
+  - Zig
+  - Odin
+  - Go
+  - Prolog
+  - htmx
+  - godot
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- languages i've used before:
+  - C
+  - C++
+  - C#
+  - Java
+  - JavaScript / TypeScript
+  - Python
+  - Lua

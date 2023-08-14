@@ -21,6 +21,7 @@ make it work first - performance can come later
   - godot
 
 - stuff i've used before:
+  - Assembly
   - C
   - C++
   - C#

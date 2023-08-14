@@ -12,7 +12,7 @@ make it work first - performance can come later
 - 🌱 I’m currently learning rust (ratatui, tokio,...)
 
 ## Programming info
-- languages / technologies on my bucket list:
+- bucket list:
   - Zig
   - Odin
   - Go
@@ -28,3 +28,4 @@ make it work first - performance can come later
   - JavaScript / TypeScript
   - Python
   - Lua
+  - Rust

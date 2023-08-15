@@ -8,7 +8,7 @@ i'm working on improving and relearning from the ground up, so there may be some
 make it work first - performance can come later  
 </br>
   
-- 🔭 I’m currently working on a small scaping project in rust
+- 🔭 I’m currently working on a small scraping project in rust
 - 🌱 I’m currently learning rust (ratatui, tokio,...)
 
 ## Programming info
@@ -26,11 +26,10 @@ make it work first - performance can come later
 
 - stuff i've used before (at least 5 hours not counting learning):
 - assembly
-- sql
 - ...
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,azure,c,cs,cpp,html,css,dotnet,java,js,ts,python,lua,rust,react,linux,md" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,azure,c,cs,cpp,html,css,dotnet,java,js,ts,python,lua,rust,react,linux,md,mysql,sqlite" />
   </a>
 </p>

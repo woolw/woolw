@@ -12,7 +12,7 @@ make it work first - performance can come later
 - 🌱 I’m currently learning rust (ratatui, tokio,...)
 
 ## Programming info
-- bucket list:
+### bucket list:
   - Odin
   - Prolog
   - htmx
@@ -24,7 +24,7 @@ make it work first - performance can come later
   </a>
 </p>
 
-- stuff i've used before (at least 5 hours not counting learning):
+### stuff i've used before (at least 5 hours not counting learning):
 - assembly
 - ...
   
@@ -33,3 +33,9 @@ make it work first - performance can come later
     <img src="https://skillicons.dev/icons?i=git,arduino,azure,c,cs,cpp,html,css,dotnet,java,js,ts,python,lua,rust,react,linux,md,mysql,sqlite" />
   </a>
 </p>
+</br>
+
+### most proficient:
+- C# (bcs i work with it pretty much daily)
+- SQL (also work)
+

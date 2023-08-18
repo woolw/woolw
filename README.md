@@ -1,6 +1,6 @@
 # woolw
 I've been programming since ~2015  
-I am currently working as a C# Backend Dev also dabbling a bit in our frontend (React | TS) at work  
+I am currently working as a C# Backend Dev also dabbling a bit in our frontend (React | TS) at work since beginning of the year  
 
 Please don't bash my code....   
 i'm working on improving and relearning from the ground up, so there may be some.. less than ideal code

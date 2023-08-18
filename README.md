@@ -13,14 +13,14 @@ make it work first - performance can come later
 
 ## Programming info
 ### bucket list:
-  - Odin
-  - Prolog
-  - htmx
-  - ...
+- Odin
+- Prolog
+- htmx
+- ...
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=zig,golang,godot," />
+    <img src="https://skillicons.dev/icons?i=zig,golang," />
   </a>
 </p>
 
@@ -36,6 +36,8 @@ make it work first - performance can come later
 </br>
 
 ### most proficient:
-- C# (bcs i work with it pretty much daily)
-- SQL (also work)
+- C# with ASP.Net
+- EFCore
+- SQL 
 
+yes i am currently very deep into microsoft stuff, bcs of work...

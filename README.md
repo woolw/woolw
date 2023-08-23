@@ -20,7 +20,7 @@ make it work first - performance can come later
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=zig,golang," />
+    <img src="https://skillicons.dev/icons?i=zig,golang,php,ocaml" />
   </a>
 </p>
 

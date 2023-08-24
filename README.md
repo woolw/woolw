@@ -9,7 +9,6 @@ make it work first - performance can come later
 </br>
   
 - 🔭 I’m currently working on a small scraping project in rust
-- 🌱 I’m currently learning rust (ratatui, tokio,...)
 
 ## Programming info
 ### bucket list:
@@ -34,10 +33,3 @@ make it work first - performance can come later
   </a>
 </p>
 </br>
-
-### most proficient:
-- C# with ASP.Net
-- EFCore
-- SQL 
-
-yes i am currently very deep into microsoft stuff, bcs of work...

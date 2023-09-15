@@ -1,8 +1,8 @@
 # woolw
 I've been programming since ~2015  
-I am currently working as a C# Backend Dev also dabbling a bit in our frontend (React | TS) at work since beginning of the year  
+I am currently working as a C# Backend Dev also dabbling a bit in our frontend (React | TS) at work since beginning of 2023  
 
-i'm working on improving and relearning from the ground up, so there may be some.. less than ideal code
+i'm working on improving and relearning most of what i know about programming, so there may be some.. less than ideal code
 
 ## Programming info
 ### bucket list:

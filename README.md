@@ -1,29 +1,45 @@
-# woolw
-I've been programming since ~2015  
-I am currently working as a C# Backend Dev also dabbling a bit in our frontend (React | TS) at work since beginning of 2023  
+```yml
+user: woolw
 
-i'm working on improving and relearning most of what i know about programming, so there may be some.. less than ideal code
+aboutMe:
 
-## Programming info
-### bucket list:
-- Odin
-- Prolog
-- htmx
-- ...
+  misc: started programming in ~2015
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=zig,golang,ocaml" />
-  </a>
-</p>
+  occupation: softwaredeveloper backend and frontend
 
-### stuff i've used before (at least 5 hours not counting learning):
-- assembly
-- ...
-  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,azure,c,cs,cpp,html,css,dotnet,java,js,ts,python,lua,rust,react,linux,md,mysql,sqlite" />
-  </a>
-</p>
-</br>
+  favoriteLang: pending...
+
+todo:
+  - Odin
+  - Prolog
+  - htmx
+  - zig
+  - go
+  - ocaml
+
+skills:
+
+  languages:
+    - c
+    - c++
+    - c#
+    - java
+    - javascript
+    - typescript
+    - python
+    - lua
+    - rust
+    - sql
+    - html
+    - css
+    - markdown
+
+  technologiesETC:
+    - linux
+    - git
+    - azure
+    - dotnet
+    - react
+```
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=woolw&show_icons=true&theme=transparent&custom_title=Github%20stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woolw&hide_progress=false&theme=transparent&layout=compact)

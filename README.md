@@ -10,8 +10,8 @@ aboutMe:
   favoriteLang: pending...
 
 todo:
-  - Odin
-  - Prolog
+  - odin
+  - prolog
   - htmx
   - zig
   - go

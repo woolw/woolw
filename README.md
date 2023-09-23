@@ -11,11 +11,10 @@ aboutMe:
 
 todo:
   - odin
-  - prolog
   - htmx
   - zig
   - go
-  - ocaml
+  - lisp
 
 skills:
 
